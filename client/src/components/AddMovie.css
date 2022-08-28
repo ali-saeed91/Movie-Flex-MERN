@@ -1,0 +1,6 @@
+#msg{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-top: 5px;
+}
